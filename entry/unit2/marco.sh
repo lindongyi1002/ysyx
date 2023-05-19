@@ -1,6 +1,6 @@
 #!/bin/bash
 
-output_file=~/ysyx/ysyx-workbench/entry/current_dir.txt
+output_file=~/ysyx/entry/unit2/current_dir.txt
 
 marco(){
     pwd | tee $output_file
