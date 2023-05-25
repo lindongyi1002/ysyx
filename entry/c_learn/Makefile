@@ -11,4 +11,4 @@ all: ex1 ex3
 CFLAGS=-Wall -g
 
 clean:
-	rm -f ex?
+	rm -f ex? ex1?
